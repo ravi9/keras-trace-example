@@ -11,3 +11,5 @@ To view the trace:
 (2) Go to this url -- chrome://tracing                                                                                                                                                                                     
 (3) Click the load button.                                                                                                                                                                                                 
 (4) Load the file ./timeline_trace.json
+
+See this for setup: `https://gist.github.com/ravi9/50c3d7e67de56759c3795460cb2b2059`
